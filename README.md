@@ -20,7 +20,7 @@ In the 1920s this building (describe the building purpose in 1920)...
 
 ### Online references & photographs
 * ![Oral History: Margaret Dowd](http://millvalley.pastperfectonline.com/archive/22CF0E22-06CE-4FFC-AE9F-219091428009) references her time at the Summit School
-* ![Image from 1895](tbd)
+* ![Image from 1895](https://github.com/TimeWalkOrg/building-mill-valley-ca-summit-school/blob/master/summit-school-mvu3077.jpg)
 
 ## TimeWalk Images
 ![TimeWalk Unity Model](tbd)
