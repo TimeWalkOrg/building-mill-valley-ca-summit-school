@@ -1,5 +1,5 @@
 # The Summit School
-9 Summit Avenue, Mill Valley, CA 94941
+~9 Summit Avenue, Mill Valley, CA 94941
 
 ## Building History
 
@@ -10,7 +10,6 @@ In the 1920s this building (describe the building purpose in 1920)...
 - Architect: tbd
 - Library link: tbd
 
-
 ## SketchUp Model
 
 - Made by Scott Roche
@@ -20,7 +19,8 @@ In the 1920s this building (describe the building purpose in 1920)...
 ![SketchUp Make 2017 model screenshot]()
 
 ### Online references & photographs
-* tbd
+* ![Oral History: Margaret Dowd](http://millvalley.pastperfectonline.com/archive/22CF0E22-06CE-4FFC-AE9F-219091428009) references her time at the Summit School
+* ![Image from 1895](tbd)
 
 ## TimeWalk Images
 ![TimeWalk Unity Model](tbd)
