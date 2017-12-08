@@ -26,9 +26,12 @@ In the 1920s this building was one of the primary elementary schools in Mill Val
 
 ### Online references & photographs
 ![Oral History: Margaret Dowd](http://millvalley.pastperfectonline.com/archive/22CF0E22-06CE-4FFC-AE9F-219091428009) references her time at the Summit School
-![Image from 1895](https://github.com/TimeWalkOrg/building-mill-valley-ca-summit-school/blob/master/summit-school-mvu3077.jpg)
+
 ![Photo c.1910](https://github.com/TimeWalkOrg/building-mill-valley-ca-summit-school/blob/master/summit-school-c1910-MVU1390.jpg) Photo c.1910, Courtesy of the Lucretia Little History Room, Mill Valley Public Library 
-![Photo c.1908](https://github.com/TimeWalkOrg/building-mill-valley-ca-summit-school/blob/master/summit-school-c1910-MVU1390.jpg)Photo c.1908, Courtesy of the Lucretia Little History Room, Mill Valley Public Library 
+
+![Photo c.1908](https://github.com/TimeWalkOrg/building-mill-valley-ca-summit-school/blob/master/summit-school-c1908-MVN1482.jpg)Photo c.1908, Courtesy of the Lucretia Little History Room, Mill Valley Public Library 
+
+![Image from 1895](https://github.com/TimeWalkOrg/building-mill-valley-ca-summit-school/blob/master/summit-school-mvu3077.jpg) Photo of Mill Valley c.1895, Courtesy of the Lucretia Little History Room, Mill Valley Public Library 
 
 ## TimeWalk Images
 ![TimeWalk Unity Model](tbd)
