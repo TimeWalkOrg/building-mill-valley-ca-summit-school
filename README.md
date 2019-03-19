@@ -3,22 +3,24 @@
 
 ## Building History
 
-In the 1920s this building was one of the primary elementary schools in Mill Valley. The Summit School was the first and one of the most populated elementary schools in Mill Valley. It served as the only elementary school for all of Mill Valley from 1892 - 1908. The original building on the plot was a one-room building with an enrollment of 35. This served as the school from 1892 to 1896 when it was expanded to a two story building to accommodate more students. The building was used until June of 1939, when it was replaced by the large Old Mill School. The building was finally demolished in 1941 and the plot, that now holds six homes, was sold for $1,350.
+In the 1920s this building was one of the primary elementary schools in Mill Valley. The Summit School was the first and one of the most populated elementary schools in Mill Valley. It served as the only elementary school for all of Mill Valley from 1892 - 1908. The original building on the plot was a one-room building with an enrollment of 35. 
 
-- Built: tbd
+A new, two-story building was erected in the summer of 1890 and then re-modeled in 1895 by Edward R. Swain.  By 1904 the attendance was the third largest in the country. Half a century later (1940), the building was razed, but the public school system’s presence in Mill Valley never faltered. At the time there were four school buildings with an attendance of approximately 700 and an estimated valuation of $255,000 (equal to $4,606,119 in 2018.) Old Summit School was razed as Mill Valley concluded the celebration of fifty years as a community.
+
+The building was finally demolished in 1941 and the plot (that now holds six homes) was sold for $1,350.
+
+- Built: 1890
 - First used as a school: c.1892
-- Remodeled: c.1896
+- Remodeled: c.1895
 - Demolished: 1941
-- Architect: tbd
+- Architect: Edward R. Swain
 - Library link: tbd
 
 ## SketchUp Model
 
-- Made by Scott Roche
-- Model completed: December, 2017
+- Made by Oskar Oste (original version by Scott Roche)
+- Model completed: December, 2018
 - Modeled in SketchUp Make 2017
-
-![SketchUp Make 2017 model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-summit-school/blob/master/summit-school-1920.jpg)
 
 ## Design Decisions
 - I based my dimensions of the building off of an estimate based on the current size of Old Mill and a floor plan containing some basic dimensions
